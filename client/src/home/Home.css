@@ -1,0 +1,38 @@
+.HomeContainer{
+    margin: 0px;
+    position: relative !important;
+    min-height: 100vh;
+    background-color: rgb(44, 42, 42);
+    color: rgb(218, 204, 204);
+}
+.Title{
+    margin: 50px;
+    padding-top: 20px;
+    margin-left: 0px;
+    font-size: 30px;
+    text-align: left;
+}
+.FormDiv{
+    display: block;
+    justify-content: left; 
+}
+.Form{
+    width: 50% !important;
+}
+.FormControl{
+    height: 50% !important;
+    font-size: 1.2em !important;
+}
+.FormButton{
+    font-size: 1em !important;
+    margin-top: 10px;
+}
+.resultDiv{
+    margin-top: 20px;
+    font-size: 1em;
+    text-align: left;
+}
+
+.banglaTitle{
+    font-size: 1.5em;
+}
